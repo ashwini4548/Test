@@ -6,6 +6,8 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("using GIT");
+		
+		System.out.println("successful pushed in git");
 	}
 
 }
